@@ -1,0 +1,24 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.carousel-item img{
+    width:100%;
+    height:96vh;
+}
+.img-abt{
+    width:100%;
+    height:96vh;
+}
+
+.services img{
+    width:100%;
+    height:100%;
+}
+footer p{
+    margin-bottom:0px;
+    margin-top: 20px;
+    text-align: center;
+    color:white;
+}
